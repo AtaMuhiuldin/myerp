@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/myerp/static/css/main.05e227c2.chunk.css",
-    "main.js": "/myerp/static/js/main.d307ad83.chunk.js",
-    "main.js.map": "/myerp/static/js/main.d307ad83.chunk.js.map",
+    "main.js": "/myerp/static/js/main.7ee69f87.chunk.js",
+    "main.js.map": "/myerp/static/js/main.7ee69f87.chunk.js.map",
     "runtime-main.js": "/myerp/static/js/runtime-main.73c61253.js",
     "runtime-main.js.map": "/myerp/static/js/runtime-main.73c61253.js.map",
     "static/js/2.8c469cc1.chunk.js": "/myerp/static/js/2.8c469cc1.chunk.js",
     "static/js/2.8c469cc1.chunk.js.map": "/myerp/static/js/2.8c469cc1.chunk.js.map",
     "index.html": "/myerp/index.html",
-    "precache-manifest.d65417536936d94565ed35ecaba2c528.js": "/myerp/precache-manifest.d65417536936d94565ed35ecaba2c528.js",
+    "precache-manifest.1537618295bb96c750b97012d80defda.js": "/myerp/precache-manifest.1537618295bb96c750b97012d80defda.js",
     "service-worker.js": "/myerp/service-worker.js",
     "static/css/main.05e227c2.chunk.css.map": "/myerp/static/css/main.05e227c2.chunk.css.map",
     "static/js/2.8c469cc1.chunk.js.LICENSE.txt": "/myerp/static/js/2.8c469cc1.chunk.js.LICENSE.txt",
@@ -51,6 +51,6 @@
     "static/js/runtime-main.73c61253.js",
     "static/js/2.8c469cc1.chunk.js",
     "static/css/main.05e227c2.chunk.css",
-    "static/js/main.d307ad83.chunk.js"
+    "static/js/main.7ee69f87.chunk.js"
   ]
 }

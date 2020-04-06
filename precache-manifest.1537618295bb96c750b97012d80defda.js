@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "af47bb1b28c1130bc2f813e907ad5e29",
+    "revision": "466b4ea852e33d55d6ffd20dbe260595",
     "url": "/myerp/index.html"
   },
   {
-    "revision": "603966bcca01fd4428eb",
+    "revision": "5a9f89e4af6c3e281dfe",
     "url": "/myerp/static/css/main.05e227c2.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/myerp/static/js/2.8c469cc1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "603966bcca01fd4428eb",
-    "url": "/myerp/static/js/main.d307ad83.chunk.js"
+    "revision": "5a9f89e4af6c3e281dfe",
+    "url": "/myerp/static/js/main.7ee69f87.chunk.js"
   },
   {
     "revision": "4dea12ae89185d8b7343",
